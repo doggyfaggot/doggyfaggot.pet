@@ -1,0 +1,10 @@
+#kat {
+    float: left;
+    height: 300px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#sangwich {
+    height: 30px;
+    float: right;
+}

@@ -1,0 +1,7 @@
+main {
+    text-align: center;
+}
+main img, main a {
+    height: 50px;
+    font-size: 50px;
+}
